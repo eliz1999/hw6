@@ -10,4 +10,5 @@ https://raw.githubusercontent.com/eliz1999/hw6/master/%D1%86%D0%B33.jpg
 б) иностранные слова (Invert Order)    
 в-г) https://raw.githubusercontent.com/eliz1999/hw6/master/%D1%86%D0%B34.jpg
 https://raw.githubusercontent.com/eliz1999/hw6/master/%D1%86%D0%B35.jpg
-https://raw.githubusercontent.com/eliz1999/hw6/master/%D1%86%D0%B36.jpg
+https://raw.githubusercontent.com/eliz1999/hw6/master/%D1%86%D0%B36.jpg   
+д) https://raw.githubusercontent.com/eliz1999/hw6/master/%D1%86%D0%B37.jpg
