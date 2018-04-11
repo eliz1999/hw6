@@ -1,8 +1,8 @@
 # hw6
 1 часть задания   
-https://raw.githubusercontent.com/eliz1999/hw6/master/%D1%86%D0%B31.jpg
-https://raw.githubusercontent.com/eliz1999/hw6/master/%D1%86%D0%B32.jpg
-https://raw.githubusercontent.com/eliz1999/hw6/master/%D1%86%D0%B33.jpg   
+1.https://raw.githubusercontent.com/eliz1999/hw6/master/%D1%86%D0%B31.jpg
+2.https://raw.githubusercontent.com/eliz1999/hw6/master/%D1%86%D0%B32.jpg
+3.https://raw.githubusercontent.com/eliz1999/hw6/master/%D1%86%D0%B33.jpg   
 Видно, что слово "Movie" вошло в употребление только в начале 20 в., а слово "film" употреблялось и в 19 в., однако частота употребления увеличилась тоже в начале 20 в. Думаю, это связано с тем, что только в конце 19 в. изобрели кинемаатограф. Вероятно, что слово "film" используется чаще в 20в.(вплоть до 2000 г.), так как у него больше аналогов в других языках (например, фильм на русском,le film на французском). 
 
 2 часть задания    
